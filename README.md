@@ -7,7 +7,7 @@ Enhancing fashion e-commerce with smart, personalized product recommendations us
 ## 📌 Overview
 
 With the rise of fashion e-commerce, customers are often overwhelmed by the sheer volume of choices.  
-This project develops a **personalized recommendation system** to:
+This project develops a **personalized recommendation ** to:
 
 - Improve shopping experience  
 - Increase engagement  
@@ -112,10 +112,19 @@ This project demonstrates an **end-to-end recommendation pipeline** including:
 - 🤖 Model selection  
 - 📈 Evaluation & visualization  
 - 🔁 User segmentation  
-- 💡 Hybrid recommender systems
 
-The **CatBoost + SVD hybrid model** delivers powerful, personalized predictions for fashion shoppers — ready to scale and adapt!
+## 🌐 Live Demo
+
+👉 https://app-kvhehbbmkzeuwzd6vqkkpq.streamlit.app/
 
 ---
 
-📬 _Let’s connect if you’d like to collaborate on AI + Retail!_
+## 🙋‍♀️ Author
+
+**Swati Sharma**  
+🔗 [LinkedIn](https://www.linkedin.com/in/swati-sharma-17s50s01/)  
+📂 [GitHub](https://github.com/swatinw)
+
+---
+
+📬 _Want to collaborate on NLP or AI projects? Let’s connect!_
